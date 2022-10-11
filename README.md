@@ -12,7 +12,7 @@ Finally, applied the principles of data governance to an organization’s data m
 
 ### [Inmon vs Kimball](https://tdan.com/data-warehouse-design-inmon-versus-kimball/20300)
 
-![image]()
+![image](https://user-images.githubusercontent.com/68102477/136888956-9d609d36-7278-47f6-bd3b-f74b9b54e21a.png)
 
 * Data Warehouse is normalized
 * 
